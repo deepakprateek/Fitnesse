@@ -1,0 +1,9 @@
+!path C:/Users/deepak.prateek/Downloads/Softwares/temp/FitNesseRoot/Test
+
+
+!|TaxCalculationFixture|
+|taxableIncome        |tax?|
+|250000               |0   |
+|500000               |50000   |
+
+
